@@ -383,7 +383,7 @@ function App() {
           </a>
 
           <a
-            href="https://linkedin.com/in/bpreetham58"
+            href="https://www.linkedin.com/in/preetham-b-9b8671263/"
             target="_blank"
             rel="noreferrer"
           >
